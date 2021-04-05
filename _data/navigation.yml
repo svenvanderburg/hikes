@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Over"
-    url: https://svenvanderburg.github.io/hikes/about/
-  - title: "Blogs"
-    url: /year-archive/
+    url: /about/
+  - title: "Alle hikes"
+    url: /all-hikes/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
