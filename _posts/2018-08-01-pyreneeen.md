@@ -9,6 +9,7 @@ categories:
 tags:
   - Spanje
   - Pyreneeën
+  - Andorra
 last_modified_at: 2021-04-09
 ---
 Mooie tocht door de Spaanse pyreneeën.
@@ -20,7 +21,7 @@ Mooie tocht door de Spaanse pyreneeën.
 
 Een superleuke wandeling die geheel de GR11 volgt. Het eerste deel van de wandeling gaat door een droog, verlaten berglandschap, met veel tekenen van eeuwenoude beschaving. 
 Je komt dan langs kleine traditionele Catalaanse dorpjes zoals Estaon en Tavascan en zelfs langs het compleet verlaten dorp Dorve.
-Vanaf Àreu gaat de route meer de hoogte in en wordt het landschap wilder tot we bij de pas 'Portella de Balieu' met 2750 m het hoogtepunt van de wandeling.
+Vanaf Àreu gaat de route meer de hoogte in en wordt het landschap wilder tot we bij de pas 'Portella de Balieu' komen, met 2750 m het hoogtepunt van de wandeling.
 Vanaf daar is het een prachtige afdaling naar het Andorrese wintersportdorp Arinsal.
 {% include figure image_path="/assets/images/pyreneeen-zonsondergang.jpg" alt="Zonsondergang met uitzicht vanaf Refugi De Baiau"
                   caption="Zonsondergang vanaf Refugi De Baiau" %}
